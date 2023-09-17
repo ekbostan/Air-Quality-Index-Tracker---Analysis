@@ -15,7 +15,6 @@ mongoose.connect(DB, {
 }).then(() => console.log('DB connection successful!'))
   .catch((err) => console.error('DB connection error:', err));
 
-
 // Test route for debugging
 app.get('/test', (req, res) => {
     res.send('Test route');
