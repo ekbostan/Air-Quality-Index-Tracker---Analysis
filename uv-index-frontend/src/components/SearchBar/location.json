@@ -1,0 +1,31 @@
+{
+    "states": [
+      {
+        "name": "New York",
+        "cities": [
+          {
+            "name": "New York City",
+            "zipCodes": ["10001", "10002", "10003"]
+          },
+          {
+            "name": "Buffalo",
+            "zipCodes": ["14201", "14202", "14203"]
+          }
+        ]
+      },
+      {
+        "name": "California",
+        "cities": [
+          {
+            "name": "Los Angeles",
+            "zipCodes": ["90001", "90002", "90003"]
+          },
+          {
+            "name": "San Francisco",
+            "zipCodes": ["94101", "94102", "94103"]
+          }
+        ]
+      }
+    ]
+  }
+  
